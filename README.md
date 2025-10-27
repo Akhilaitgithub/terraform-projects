@@ -1,2 +1,2 @@
-# Akhila-terraform-projects
+# terraform-projects
 Terraform -projects
